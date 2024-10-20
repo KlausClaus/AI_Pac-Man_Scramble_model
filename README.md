@@ -19,6 +19,7 @@ The purpose of this project is to implement an autonomous agent that can play th
 
  **Please read carefully the rules of the [PACMAN Capture the Flag game](http://ai.berkeley.edu/contest.html)**. Pacman can be understood as a deterministic, two-player game. Understanding the results and different strategies is important for designing a good agent for this project. Additional technical information on the contest project and how to get started can be found in file [CONTEST.md](CONTEST.md).
 
+
 ### Table of contents
 
   * [1. Your tasks](#1-your-tasks)
