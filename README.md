@@ -41,7 +41,6 @@ The purpose of this project is to implement an autonomous agent that can play th
      * [Acknowledgements](#acknowledgements)
 
 
-
 ## 1. Your tasks
 
 
